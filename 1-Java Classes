@@ -10,3 +10,10 @@
           float [] marks = new float [5];
 
 - Creating class is also can be considered as creating your own data type, as you create you student class which contains above variables/data inside it.
+
+    Example:
+            class Student {
+                     int [] rno = new int[5] ;
+                     String[] name = new String [5] ;
+                     float [] marks = new float [5];
+            }
