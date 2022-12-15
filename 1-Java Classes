@@ -1,4 +1,4 @@
-
+-------------------------------------------------Classes-------------------------------------------------
 
 - Class: A named group of properties & functions.
 
@@ -17,3 +17,11 @@
                      String[] name = new String [5] ;
                      float [] marks = new float [5];
             }
+            
+-------------------------------------------------Objects-------------------------------------------------
+
+- An object is an instace of a class. 
+    
+    Example: A Human in real life can be considered as class. It has some by default properties like two eyes, two legs, two hands, one nose etc etc.
+    Every human we see in daily life are diffrent from each other in terms of color, height, looks, weight etc. These diffrent kind of humans are nothing 
+    but the instance/object of the class Human.
