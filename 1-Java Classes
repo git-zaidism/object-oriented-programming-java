@@ -8,3 +8,5 @@ If i want to combine the below data of a Student into a single entity, i can do 
     int [] rno = new int[5] ;
     String[] name = new String [5] ;
     float [] marks = new float [5];
+
+Creating class is also can be considered as creating your own data type, as you create you student class which contains above variables/data inside it.
