@@ -40,3 +40,33 @@
 - new keyword used to create an object, while creating an object new keyword dynamically allocates the memory & return the reference to it.
 
     Eg: Student student = new Student();
+
+* Dynamic Memory Allocation
+    
+    Student student = new Student();
+
+In above example all the things 
+    - written at LHS happens at Compile time
+    - written at RHS happens at Run time
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
