@@ -1,3 +1,5 @@
+
+
 Class: A named group of properties & functions.
 
 If i want to combine the below data of a Student into a single entity, i can do it only via class.
