@@ -32,5 +32,6 @@
 - object : A physical reality (occupies the space in the memory)
 
 - Objects are stored in the heap memory & refernce varibles are stored in the stack memory.
+- By default values of an object of a class is null. 
 
 
