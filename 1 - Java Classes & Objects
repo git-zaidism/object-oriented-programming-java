@@ -54,7 +54,8 @@ In above example all the things
                      int rno;
                      String name;
                      float marks;
-            }
+   }
+            
    Student student = new Student();
    
    System.out.println(student); // some random locationor address
