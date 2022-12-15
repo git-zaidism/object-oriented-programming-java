@@ -1,0 +1,8 @@
+Class: A named group of properties & functions.
+
+If i want to combine the below data of a Student into a single entity, i can do it only via class.
+
+    // data of 5 students : {roll no, name, marks}
+    int [] rno = new int[5] ;
+    String[] name = new String [5] ;
+    float [] marks = new float [5];
