@@ -13,9 +13,9 @@
 
     Example:
             class Student {
-                     int [] rno = new int[5] ;
-                     String[] name = new String [5] ;
-                     float [] marks = new float [5];
+                     int rno;
+                     String name ;
+                     float marks;
             }
             
 -------------------------------------------------Objects-------------------------------------------------
@@ -32,3 +32,5 @@
 - object : A physical reality (occupies the space in the memory)
 
 - Objects are stored in the heap memory & refernce varibles are stored in the stack memory.
+
+
