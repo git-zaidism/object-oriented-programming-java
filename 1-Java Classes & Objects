@@ -50,10 +50,17 @@ In above example all the things
     - written at RHS happens at Run time
 
    
+   class Student {
+                     int rno;
+                     String name;
+                     float marks;
+            }
+   Student student = new Student();
    
-   
-   
-   
+   System.out.println(student); // some random locationor address
+   System.out.println(student.rno); // defualt value of primitive will be 0
+   System.out.println(student.name); // defualt value of String which is class will be null
+   System.out.println(student.marks); // defualt value of primitive will be 0.0
    
    
    
