@@ -34,4 +34,9 @@
 - Objects are stored in the heap memory & refernce varibles are stored in the stack memory.
 - By default values of an object of a class is null. 
 
+    Student student; // at this point student value is null 
 
+
+- new keyword used to create an object, while creating an object new keyword dynamically allocates the memory & return the reference to it.
+
+    Eg: Student student = new Student();
