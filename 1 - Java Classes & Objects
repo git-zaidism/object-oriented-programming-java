@@ -63,5 +63,10 @@ In above example all the things
    System.out.println(student.name); // defualt value of String which is class will be null
    System.out.println(student.marks); // defualt value of primitive will be 0.0
    
+   -----------------------------------------------------------------------------------------------------------------------------
+   
+   Student s1 = new Student();
+   s1 reference var is stored in stack memory whereas actual object is being created in the heap memory.
+   
    
    
